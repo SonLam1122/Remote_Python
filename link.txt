@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/SonLam1122/Remote_Python/refs/heads/main/plugin.py
